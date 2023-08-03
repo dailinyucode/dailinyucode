@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**dailinyucode/dailinyucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oddfar/oddfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+- 🔭 I'm now in my junior (3rd year) year of college.
+- 🌱 I’m currently learning.
+- 😄 Pronouns: zhiyuan|oddfar
+- ⚡ Fun fact: I found that I do not know anything. 😣
+
+
+![private github information](https://github-readme-stats.vercel.app/api?username=dailinyucode&show_icons=true&theme=Gradient)
+
+![private language](https://github-readme-stats.vercel.app/api/top-langs/?username=dailinyucode&layout=compact&langs_count=8&hide_border=true)
