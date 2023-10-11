@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: zhiyuan|oddfar
 - ⚡ Fun fact: I found that I do not know anything. 😣
 
+<div align="left"><img src="https://cdn.jsdelivr.net/gh/susu-hu/susu-hu/img/github-snake.svg" /></div>
 
 ![private github information](https://github-readme-stats.vercel.app/api?username=dailinyucode&show_icons=true&theme=Gradient)
 
